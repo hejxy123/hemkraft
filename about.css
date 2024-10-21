@@ -161,7 +161,7 @@ body {
  
      .hero-section {
         position: relative; /* Set position for the pseudo-element */
-        background-image: url('/11.JPEG'); /* Background image */
+        background-image: url('./11.JPEG'); /* Background image */
         background-size: cover;
         background-position: center;
         height: 60vh; /* Default height */
