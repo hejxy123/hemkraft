@@ -541,7 +541,13 @@ body {
  }
  
  
- 
+  .review-indicators {
+    margin-top: 60px; /* Add a gap between the reviews and the indicators */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
  
  /* conetc form  -------------------------------------------------*/
  .contact-section {
