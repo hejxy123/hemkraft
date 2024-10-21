@@ -137,7 +137,7 @@ body {
  /* Hero section-------------------------------------- */
  .welcome-section {
      position: relative;
-background: url('images/16.JPEG') no-repeat center center/cover;
+background: url('./16.JPEG') no-repeat center center/cover;
      padding: 50px 20px;
      min-height: 60vh;
      display: flex;
