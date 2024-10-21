@@ -137,7 +137,7 @@ body {
  /* Hero section-------------------------------------- */
  .welcome-section {
      position: relative;
-     background: url('https://i.ibb.co/g3Nfyqg/351-CA182-88-F1-4505-BBE0-641-D8-E6499-AA-2.jpg') no-repeat center center/cover;
+background: url('images/16.JPEG') no-repeat center center/cover;
      padding: 50px 20px;
      min-height: 60vh;
      display: flex;
