@@ -716,6 +716,24 @@ background: url('./16.JPEG') no-repeat center center/cover;
  
  
  
+  /* Media query for smaller screens */
+ @media (max-width: 768px) { /* Adjust the max-width as needed */
+    .qna-section {
+        width: 90%; /* Take full width */
+        margin: 25px; /* Remove margin */
+        padding: 10px; /* Reduce padding */
+    }
+
+    .title {
+        font-size: 24px; /* Optional: adjust font size for smaller screens */
+    }
+
+    .equation {
+        padding: 8px; /* Optional: adjust padding for smaller screens */
+    }
+}
+ 
+
  
  
  
